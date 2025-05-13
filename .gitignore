@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+*.pid
+*.pid.lock
+
+# Custom ignores for my Docker image projects
+data
+docker-compose.yml
